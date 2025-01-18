@@ -17,9 +17,10 @@ O projeto **Amigo Secreto** É uma aplicação simples e divertida para realizar
 
 ### 1. Clone o repositório:
 
-Veja o funcionamento da aplicação no GIF abaixo:
+Veja o funcionamento da aplicação no video abaixo:
 
-[Funcionalidade](https://youtu.be/E06QLGZ9zd0)
+https://github.com/user-attachments/assets/6ec3bb60-f323-4f6c-8cf0-7db3d22adad8
+
 
 
 Primeiro, clone o repositório para o seu computador:
