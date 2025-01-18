@@ -20,4 +20,4 @@ O projeto **Amigo Secreto** é uma aplicação simples e divertida para realizar
 Primeiro, clone o repositório para o seu computador:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/amigo-secreto.git
+git clone https://github.com/gabreoo/Challenge-ONE
